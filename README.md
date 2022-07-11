@@ -2,7 +2,7 @@
 
 - 📕 Estou estudando um pouco de Front-end!
 - 📚 Tenho um breve conhecimento em Python.
-- 👨‍💻 Quero trabalhar no ramo da programação, mais especificamente no Front-end.
+- 👨‍💻 Quero trabalhar no ramo da programação, mais especificamente na area Full-Stack.
 
 <div>
   <a href="https://github.com/lucas478">
