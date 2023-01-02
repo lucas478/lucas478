@@ -1,4 +1,4 @@
-## Opan bão?
+## Olá, tudo bem?
 
 - 📕 Estou estudando um pouco de Front-end!
 - 📚 Tenho um breve conhecimento em Python.
